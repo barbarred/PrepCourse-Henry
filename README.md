@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba del modulo2 del PrepCourse Henry
+Esto es una prueba de como clonar un repo de github para guardarlo local en la pc
